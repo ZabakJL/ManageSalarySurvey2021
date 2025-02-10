@@ -2,14 +2,15 @@
 📊 **Análisis de datos salariales de gerentes**  
 
 ## **Descripción**  
-Este repositorio contiene el código y los datos utilizados en el análisis de la encuesta **Manager Salary Survey 2021**. El objetivo es limpiar, transformar y analizar la información para obtener insights sobre salarios, compensaciones y tendencias por industria, país, género y nivel educativo.  
+Este repositorio contiene el código y los datos utilizados en el análisis de la encuesta **Manager Salary Survey 2021**. El objetivo es limpiar, transformar y analizar la información para obtener insights sobre salarios, compensaciones y tendencias por industria, país, género y nivel educativo. 
+Se trata de un ejercicio realizado en el curso de visualización y storytelling de la Maestria de Inteligencia Análitica de datos. 
+El tablero que se construyo a partir de este modelamiento puede consultarse en https://lookerstudio.google.com/reporting/063a1df1-c242-465c-b9f7-55dfe7fe2508
 
 ## **Estructura del repositorio**  
 
 ```
 📂 Data
 │── 📂 Processed              # Datos procesados y normalizados
-│   │── ManagerSalarySurvey2021_pr...  # Archivo procesado final (nombre truncado)
 │   │── TasasDeCambio.csv     # Archivo con tasas de conversión de monedas
 │   │── codigosMoneda.csv     # Mapeo de códigos de moneda
 │   │── dataProcessed.csv     # Datos después de la transformación
@@ -20,7 +21,9 @@ Este repositorio contiene el código y los datos utilizados en el análisis de l
 │   │── ManagerSalarySurvey 2021.csv  # Archivo original de la encuesta
 │
 📂 Docs                        # Documentación del proyecto
-│   │── Descripción del proyecto y entrega...  # Documentos explicativos
+│   │── Modelado de datos.docx  # Documentos explicativos
+│   │── Modelado de datos.pdf  # Documentos explicativos
+│   │── Requisitos generales.docx  # Documentos explicativos
 │
 📂 Scripts                     # Scripts de procesamiento y análisis de datos
 │   │── transform_data.ipynb   # Notebook para transformación de datos
@@ -66,6 +69,6 @@ Si deseas contribuir con mejoras en la limpieza y análisis de datos, por favor 
 4. Envía un **pull request** para revisión.  
 
 ## **Contacto**  
-Para dudas o sugerencias, puedes contactarme a través de **[tu correo o LinkedIn]**.  
+Para dudas o sugerencias, puedes contactarme a través de **jmogollona@uniandes.edu.co**.  
 
 
