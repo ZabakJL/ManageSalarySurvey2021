@@ -14,7 +14,6 @@ Este repositorio contiene el código y los datos utilizados en el análisis de l
 │   │── codigosMoneda.csv     # Mapeo de códigos de moneda
 │   │── dataProcessed.csv     # Datos después de la transformación
 │   │── mapearIndustrias.csv  # Archivo para normalizar industrias
-│   │── mapearIndustrias.xlsx # Versión en Excel del mapeo de industrias
 │   │── mapearPaisCiudad.csv  # Archivo para normalizar países y ciudades
 │
 │── 📂 Raw                    # Datos sin procesar
